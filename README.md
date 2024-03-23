@@ -4,6 +4,7 @@ RickAndMorty açık API'si aracılığıyla ve React Native altyapısı kullanı
 TODO:
 - Landing sayfası oluşturulacaktır. 
 - Eksik kalan karakterlerlerin verilerine dair API noktaları da uygulamaya eklenecektir.
+- Eksik kalan karakterlerle ilgili fonksiyonlar tamamlanacaktır.
 - Karakterler ve Bölümler için bir Bottom Tab Navigation oluşturulacak ve ilgili sayfalara buradan erişilecektir.
 - StatusBar oluşturulacaktır.
 
