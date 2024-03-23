@@ -1,6 +1,12 @@
 # RickAndMorty
 RickAndMorty açık API'si aracılığıyla ve React Native altyapısı kullanılarak çizgi filmin bölümlerini ve karakterlerini ekranda listeleyerek gösteren bir uygulamadır. Konuşarak Öğren projesinin isterlerine göre hazırlanmıştır. 
 
+TODO:
+- Landing sayfası oluşturulmalıdır. Oluşturulan bu landing sayfasına dönüştürülmelidir. 
+- Eksik kalan karakterlerlerin verilerine dair API noktaları da uygulamaya eklenecektir.
+- Karakterler ve Bölümler için bir Bottom Tab Navigation oluşturulacak ve ilgili sayfalara buradan erişilecektir.
+- StatusBar oluşturulacaktır.
+
  https://rickandmortyapi.com/api/episode API araclığı ile gelen tüm bölümlere ait veriler
 uygulamanın ana ekranında pagination(sayfalama) şeklinde listelenmelidir.
 
@@ -17,7 +23,6 @@ https://rickandmortyapi.com/api/episode/8 bağlantısını kullanabilirsiniz.
 ● Açılan bölüm sayfasında bölümde bulunan karakterler listelenmeli ve karaktere
 tıklandığında karakter ile ilgili bilgiler API aracılığı ile alarak ekrana dökülmelidir. Örnek
 API için https://rickandmortyapi.com/api/character/1 bağlantısını kullanabilirsiniz.
-
 
 ● Uygulama tasarımları tamamen uygulama geliştiriciye bırakılmıştır.
 
